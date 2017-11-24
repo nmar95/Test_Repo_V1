@@ -1,3 +1,5 @@
 This is the second file created in this test repo
 
 Favorite color = blue
+
+My least favorite color is orange.
