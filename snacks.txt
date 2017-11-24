@@ -1,0 +1,5 @@
+this is another new file created in the ubuntu VM
+
+This fiel will be about snacks
+
+Favorite snacks = trail mix and cookies
