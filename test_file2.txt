@@ -1,7 +1,13 @@
 This is the second file created in this test repo
 
-Favorite color = blue
+Favorite color = Green
 
 My least favorite color is orange.
 
 Mi piace il colore azuro
+
+This is my other account.
+
+I'm adding some more information to this document, and then I will submit a pull request.
+
+My favorite fruit is apples
